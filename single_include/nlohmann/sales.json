@@ -1,0 +1,1602 @@
+[
+    {
+        "current day sale": 2167,
+        "motor_id": 100041,
+        "price per part": 2167,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 1
+    },
+    {
+        "current day sale": 22386,
+        "motor_id": 115724,
+        "price per part": 7462,
+        "sold": 1,
+        "total-sales": 7462,
+        "weeks": 2
+    },
+    {
+        "current day sale": 9800,
+        "motor_id": 105705,
+        "price per part": 1960,
+        "sold": 2,
+        "total-sales": 3920,
+        "weeks": 1
+    },
+    {
+        "current day sale": 51488,
+        "motor_id": 100491,
+        "price per part": 6436,
+        "sold": 6,
+        "total-sales": 38616,
+        "weeks": 3
+    },
+    {
+        "current day sale": 14212,
+        "motor_id": 132391,
+        "price per part": 1292,
+        "sold": 3,
+        "total-sales": 3876,
+        "weeks": 1
+    },
+    {
+        "current day sale": 46288,
+        "motor_id": 112382,
+        "price per part": 2893,
+        "sold": 5,
+        "total-sales": 14465,
+        "weeks": 2
+    },
+    {
+        "current day sale": 34428,
+        "motor_id": 105447,
+        "price per part": 2869,
+        "sold": 15,
+        "total-sales": 43035,
+        "weeks": 1
+    },
+    {
+        "current day sale": 3786,
+        "motor_id": 119912,
+        "price per part": 1893,
+        "sold": 15,
+        "total-sales": 28395,
+        "weeks": 3
+    },
+    {
+        "current day sale": 135408,
+        "motor_id": 128703,
+        "price per part": 9672,
+        "sold": 2,
+        "total-sales": 19344,
+        "weeks": 2
+    },
+    {
+        "current day sale": 62944,
+        "motor_id": 104664,
+        "price per part": 7868,
+        "sold": 10,
+        "total-sales": 78680,
+        "weeks": 4
+    },
+    {
+        "current day sale": 39455,
+        "motor_id": 125547,
+        "price per part": 3035,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 1
+    },
+    {
+        "current day sale": 14224,
+        "motor_id": 112859,
+        "price per part": 1778,
+        "sold": 2,
+        "total-sales": 3556,
+        "weeks": 4
+    },
+    {
+        "current day sale": 2576,
+        "motor_id": 112316,
+        "price per part": 1288,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 1
+    },
+    {
+        "current day sale": 28230,
+        "motor_id": 130106,
+        "price per part": 5646,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 7368,
+        "motor_id": 127446,
+        "price per part": 7368,
+        "sold": 4,
+        "total-sales": 29472,
+        "weeks": 1
+    },
+    {
+        "current day sale": 22740,
+        "motor_id": 115350,
+        "price per part": 4548,
+        "sold": 13,
+        "total-sales": 59124,
+        "weeks": 1
+    },
+    {
+        "current day sale": 15786,
+        "motor_id": 119629,
+        "price per part": 1754,
+        "sold": 4,
+        "total-sales": 7016,
+        "weeks": 2
+    },
+    {
+        "current day sale": 83754,
+        "motor_id": 111840,
+        "price per part": 9306,
+        "sold": 8,
+        "total-sales": 74448,
+        "weeks": 4
+    },
+    {
+        "current day sale": 26148,
+        "motor_id": 116944,
+        "price per part": 6537,
+        "sold": 3,
+        "total-sales": 19611,
+        "weeks": 3
+    },
+    {
+        "current day sale": 42700,
+        "motor_id": 121538,
+        "price per part": 8540,
+        "sold": 8,
+        "total-sales": 68320,
+        "weeks": 3
+    },
+    {
+        "current day sale": 108338,
+        "motor_id": 104833,
+        "price per part": 5702,
+        "sold": 3,
+        "total-sales": 17106,
+        "weeks": 1
+    },
+    {
+        "current day sale": 32304,
+        "motor_id": 109930,
+        "price per part": 5384,
+        "sold": 3,
+        "total-sales": 16152,
+        "weeks": 3
+    },
+    {
+        "current day sale": 43620,
+        "motor_id": 105021,
+        "price per part": 7270,
+        "sold": 7,
+        "total-sales": 50890,
+        "weeks": 3
+    },
+    {
+        "current day sale": 93621,
+        "motor_id": 105829,
+        "price per part": 8511,
+        "sold": 8,
+        "total-sales": 68088,
+        "weeks": 3
+    },
+    {
+        "current day sale": 21412,
+        "motor_id": 123986,
+        "price per part": 5353,
+        "sold": 16,
+        "total-sales": 85648,
+        "weeks": 2
+    },
+    {
+        "current day sale": 36459,
+        "motor_id": 124767,
+        "price per part": 4051,
+        "sold": 10,
+        "total-sales": 40510,
+        "weeks": 3
+    },
+    {
+        "current day sale": 17895,
+        "motor_id": 127350,
+        "price per part": 5965,
+        "sold": 2,
+        "total-sales": 11930,
+        "weeks": 2
+    },
+    {
+        "current day sale": 26688,
+        "motor_id": 103430,
+        "price per part": 3336,
+        "sold": 2,
+        "total-sales": 6672,
+        "weeks": 3
+    },
+    {
+        "current day sale": 6944,
+        "motor_id": 115457,
+        "price per part": 6944,
+        "sold": 2,
+        "total-sales": 13888,
+        "weeks": 3
+    },
+    {
+        "current day sale": 3172,
+        "motor_id": 108909,
+        "price per part": 1586,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 8412,
+        "motor_id": 106422,
+        "price per part": 8412,
+        "sold": 4,
+        "total-sales": 33648,
+        "weeks": 1
+    },
+    {
+        "current day sale": 2655,
+        "motor_id": 129168,
+        "price per part": 2655,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 4
+    },
+    {
+        "current day sale": 77282,
+        "motor_id": 117410,
+        "price per part": 4546,
+        "sold": 14,
+        "total-sales": 63644,
+        "weeks": 4
+    },
+    {
+        "current day sale": 14696,
+        "motor_id": 106483,
+        "price per part": 7348,
+        "sold": 1,
+        "total-sales": 7348,
+        "weeks": 3
+    },
+    {
+        "current day sale": 5596,
+        "motor_id": 110291,
+        "price per part": 5596,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 4
+    },
+    {
+        "current day sale": 44892,
+        "motor_id": 124021,
+        "price per part": 7482,
+        "sold": 2,
+        "total-sales": 14964,
+        "weeks": 2
+    },
+    {
+        "current day sale": 9416,
+        "motor_id": 108281,
+        "price per part": 9416,
+        "sold": 18,
+        "total-sales": 169488,
+        "weeks": 2
+    },
+    {
+        "current day sale": 5868,
+        "motor_id": 127938,
+        "price per part": 1467,
+        "sold": 4,
+        "total-sales": 5868,
+        "weeks": 1
+    },
+    {
+        "current day sale": 39224,
+        "motor_id": 103728,
+        "price per part": 9806,
+        "sold": 2,
+        "total-sales": 19612,
+        "weeks": 4
+    },
+    {
+        "current day sale": 4539,
+        "motor_id": 102421,
+        "price per part": 1513,
+        "sold": 8,
+        "total-sales": 12104,
+        "weeks": 2
+    },
+    {
+        "current day sale": 10794,
+        "motor_id": 114309,
+        "price per part": 3598,
+        "sold": 6,
+        "total-sales": 21588,
+        "weeks": 3
+    },
+    {
+        "current day sale": 81700,
+        "motor_id": 105249,
+        "price per part": 4300,
+        "sold": 4,
+        "total-sales": 17200,
+        "weeks": 1
+    },
+    {
+        "current day sale": 41928,
+        "motor_id": 106224,
+        "price per part": 6988,
+        "sold": 8,
+        "total-sales": 55904,
+        "weeks": 4
+    },
+    {
+        "current day sale": 88788,
+        "motor_id": 132702,
+        "price per part": 6342,
+        "sold": 1,
+        "total-sales": 6342,
+        "weeks": 2
+    },
+    {
+        "current day sale": 25344,
+        "motor_id": 130523,
+        "price per part": 8448,
+        "sold": 3,
+        "total-sales": 25344,
+        "weeks": 1
+    },
+    {
+        "current day sale": 2794,
+        "motor_id": 125200,
+        "price per part": 2794,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 2
+    },
+    {
+        "current day sale": 14042,
+        "motor_id": 114798,
+        "price per part": 2006,
+        "sold": 6,
+        "total-sales": 12036,
+        "weeks": 3
+    },
+    {
+        "current day sale": 38619,
+        "motor_id": 127157,
+        "price per part": 4291,
+        "sold": 10,
+        "total-sales": 42910,
+        "weeks": 2
+    },
+    {
+        "current day sale": 8958,
+        "motor_id": 106038,
+        "price per part": 8958,
+        "sold": 6,
+        "total-sales": 53748,
+        "weeks": 4
+    },
+    {
+        "current day sale": 49140,
+        "motor_id": 106191,
+        "price per part": 3510,
+        "sold": 2,
+        "total-sales": 7020,
+        "weeks": 2
+    },
+    {
+        "current day sale": 6652,
+        "motor_id": 116202,
+        "price per part": 3326,
+        "sold": 9,
+        "total-sales": 29934,
+        "weeks": 1
+    },
+    {
+        "current day sale": 12150,
+        "motor_id": 122646,
+        "price per part": 2430,
+        "sold": 14,
+        "total-sales": 34020,
+        "weeks": 2
+    },
+    {
+        "current day sale": 29274,
+        "motor_id": 129869,
+        "price per part": 4879,
+        "sold": 12,
+        "total-sales": 58548,
+        "weeks": 1
+    },
+    {
+        "current day sale": 13398,
+        "motor_id": 131998,
+        "price per part": 6699,
+        "sold": 1,
+        "total-sales": 6699,
+        "weeks": 4
+    },
+    {
+        "current day sale": 48600,
+        "motor_id": 103557,
+        "price per part": 6075,
+        "sold": 7,
+        "total-sales": 42525,
+        "weeks": 1
+    },
+    {
+        "current day sale": 29601,
+        "motor_id": 110712,
+        "price per part": 9867,
+        "sold": 3,
+        "total-sales": 29601,
+        "weeks": 1
+    },
+    {
+        "current day sale": 14508,
+        "motor_id": 117861,
+        "price per part": 7254,
+        "sold": 8,
+        "total-sales": 58032,
+        "weeks": 1
+    },
+    {
+        "current day sale": 4568,
+        "motor_id": 116423,
+        "price per part": 2284,
+        "sold": 2,
+        "total-sales": 4568,
+        "weeks": 1
+    },
+    {
+        "current day sale": 23803,
+        "motor_id": 127088,
+        "price per part": 1831,
+        "sold": 14,
+        "total-sales": 25634,
+        "weeks": 3
+    },
+    {
+        "current day sale": 9188,
+        "motor_id": 130932,
+        "price per part": 9188,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 1
+    },
+    {
+        "current day sale": 13269,
+        "motor_id": 119976,
+        "price per part": 4423,
+        "sold": 9,
+        "total-sales": 39807,
+        "weeks": 1
+    },
+    {
+        "current day sale": 3022,
+        "motor_id": 110555,
+        "price per part": 1511,
+        "sold": 1,
+        "total-sales": 1511,
+        "weeks": 4
+    },
+    {
+        "current day sale": 48828,
+        "motor_id": 130145,
+        "price per part": 8138,
+        "sold": 9,
+        "total-sales": 73242,
+        "weeks": 2
+    },
+    {
+        "current day sale": 9056,
+        "motor_id": 112423,
+        "price per part": 4528,
+        "sold": 5,
+        "total-sales": 22640,
+        "weeks": 2
+    },
+    {
+        "current day sale": 7158,
+        "motor_id": 122549,
+        "price per part": 1193,
+        "sold": 6,
+        "total-sales": 7158,
+        "weeks": 3
+    },
+    {
+        "current day sale": 32416,
+        "motor_id": 123195,
+        "price per part": 8104,
+        "sold": 5,
+        "total-sales": 40520,
+        "weeks": 1
+    },
+    {
+        "current day sale": 11120,
+        "motor_id": 124488,
+        "price per part": 1112,
+        "sold": 3,
+        "total-sales": 3336,
+        "weeks": 3
+    },
+    {
+        "current day sale": 21310,
+        "motor_id": 111701,
+        "price per part": 4262,
+        "sold": 4,
+        "total-sales": 17048,
+        "weeks": 4
+    },
+    {
+        "current day sale": 17208,
+        "motor_id": 104313,
+        "price per part": 1912,
+        "sold": 7,
+        "total-sales": 13384,
+        "weeks": 2
+    },
+    {
+        "current day sale": 10518,
+        "motor_id": 110808,
+        "price per part": 1753,
+        "sold": 6,
+        "total-sales": 10518,
+        "weeks": 3
+    },
+    {
+        "current day sale": 2962,
+        "motor_id": 128321,
+        "price per part": 1481,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 31610,
+        "motor_id": 104144,
+        "price per part": 3161,
+        "sold": 2,
+        "total-sales": 6322,
+        "weeks": 3
+    },
+    {
+        "current day sale": 16172,
+        "motor_id": 105535,
+        "price per part": 4043,
+        "sold": 5,
+        "total-sales": 20215,
+        "weeks": 1
+    },
+    {
+        "current day sale": 33242,
+        "motor_id": 121659,
+        "price per part": 3022,
+        "sold": 9,
+        "total-sales": 27198,
+        "weeks": 4
+    },
+    {
+        "current day sale": 15555,
+        "motor_id": 126154,
+        "price per part": 5185,
+        "sold": 4,
+        "total-sales": 20740,
+        "weeks": 1
+    },
+    {
+        "current day sale": 42119,
+        "motor_id": 108313,
+        "price per part": 6017,
+        "sold": 4,
+        "total-sales": 24068,
+        "weeks": 1
+    },
+    {
+        "current day sale": 24211,
+        "motor_id": 118787,
+        "price per part": 2201,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 2
+    },
+    {
+        "current day sale": 88220,
+        "motor_id": 103625,
+        "price per part": 8822,
+        "sold": 2,
+        "total-sales": 17644,
+        "weeks": 2
+    },
+    {
+        "current day sale": 57480,
+        "motor_id": 129334,
+        "price per part": 3832,
+        "sold": 5,
+        "total-sales": 19160,
+        "weeks": 4
+    },
+    {
+        "current day sale": 128478,
+        "motor_id": 128070,
+        "price per part": 9177,
+        "sold": 8,
+        "total-sales": 73416,
+        "weeks": 4
+    },
+    {
+        "current day sale": 82719,
+        "motor_id": 117773,
+        "price per part": 9191,
+        "sold": 6,
+        "total-sales": 55146,
+        "weeks": 1
+    },
+    {
+        "current day sale": 43135,
+        "motor_id": 113985,
+        "price per part": 8627,
+        "sold": 3,
+        "total-sales": 25881,
+        "weeks": 1
+    },
+    {
+        "current day sale": 2543,
+        "motor_id": 104802,
+        "price per part": 2543,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 4
+    },
+    {
+        "current day sale": 12360,
+        "motor_id": 101924,
+        "price per part": 6180,
+        "sold": 1,
+        "total-sales": 6180,
+        "weeks": 1
+    },
+    {
+        "current day sale": 62953,
+        "motor_id": 131003,
+        "price per part": 5723,
+        "sold": 13,
+        "total-sales": 74399,
+        "weeks": 3
+    },
+    {
+        "current day sale": 10566,
+        "motor_id": 113031,
+        "price per part": 5283,
+        "sold": 2,
+        "total-sales": 10566,
+        "weeks": 4
+    },
+    {
+        "current day sale": 5411,
+        "motor_id": 113064,
+        "price per part": 5411,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 62790,
+        "motor_id": 130974,
+        "price per part": 4830,
+        "sold": 12,
+        "total-sales": 57960,
+        "weeks": 4
+    },
+    {
+        "current day sale": 41425,
+        "motor_id": 119711,
+        "price per part": 8285,
+        "sold": 3,
+        "total-sales": 24855,
+        "weeks": 1
+    },
+    {
+        "current day sale": 64708,
+        "motor_id": 112550,
+        "price per part": 4622,
+        "sold": 14,
+        "total-sales": 64708,
+        "weeks": 4
+    },
+    {
+        "current day sale": 39592,
+        "motor_id": 128019,
+        "price per part": 5656,
+        "sold": 13,
+        "total-sales": 73528,
+        "weeks": 3
+    },
+    {
+        "current day sale": 39137,
+        "motor_id": 126302,
+        "price per part": 5591,
+        "sold": 1,
+        "total-sales": 5591,
+        "weeks": 4
+    },
+    {
+        "current day sale": 16468,
+        "motor_id": 123851,
+        "price per part": 4117,
+        "sold": 3,
+        "total-sales": 12351,
+        "weeks": 3
+    },
+    {
+        "current day sale": 2926,
+        "motor_id": 123152,
+        "price per part": 2926,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 1
+    },
+    {
+        "current day sale": 4725,
+        "motor_id": 109010,
+        "price per part": 1575,
+        "sold": 6,
+        "total-sales": 9450,
+        "weeks": 1
+    },
+    {
+        "current day sale": 12218,
+        "motor_id": 130227,
+        "price per part": 6109,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 1
+    },
+    {
+        "current day sale": 14296,
+        "motor_id": 107882,
+        "price per part": 3574,
+        "sold": 5,
+        "total-sales": 17870,
+        "weeks": 2
+    },
+    {
+        "current day sale": 53325,
+        "motor_id": 114474,
+        "price per part": 5925,
+        "sold": 4,
+        "total-sales": 23700,
+        "weeks": 2
+    },
+    {
+        "current day sale": 1123,
+        "motor_id": 125423,
+        "price per part": 1123,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 4
+    },
+    {
+        "current day sale": 104352,
+        "motor_id": 124596,
+        "price per part": 6522,
+        "sold": 7,
+        "total-sales": 45654,
+        "weeks": 1
+    },
+    {
+        "current day sale": 30150,
+        "motor_id": 101264,
+        "price per part": 6030,
+        "sold": 16,
+        "total-sales": 96480,
+        "weeks": 4
+    },
+    {
+        "current day sale": 102540,
+        "motor_id": 120326,
+        "price per part": 8545,
+        "sold": 8,
+        "total-sales": 68360,
+        "weeks": 4
+    },
+    {
+        "current day sale": 16740,
+        "motor_id": 121153,
+        "price per part": 4185,
+        "sold": 3,
+        "total-sales": 12555,
+        "weeks": 2
+    },
+    {
+        "current day sale": 5828,
+        "motor_id": 121763,
+        "price per part": 5828,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 56190,
+        "motor_id": 130900,
+        "price per part": 9365,
+        "sold": 14,
+        "total-sales": 131110,
+        "weeks": 2
+    },
+    {
+        "current day sale": 22317,
+        "motor_id": 113007,
+        "price per part": 7439,
+        "sold": 15,
+        "total-sales": 111585,
+        "weeks": 1
+    },
+    {
+        "current day sale": 22431,
+        "motor_id": 102303,
+        "price per part": 7477,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 2
+    },
+    {
+        "current day sale": 11696,
+        "motor_id": 105108,
+        "price per part": 5848,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 2
+    },
+    {
+        "current day sale": 9612,
+        "motor_id": 114460,
+        "price per part": 2403,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 4
+    },
+    {
+        "current day sale": 6353,
+        "motor_id": 106540,
+        "price per part": 6353,
+        "sold": 1,
+        "total-sales": 6353,
+        "weeks": 3
+    },
+    {
+        "current day sale": 7108,
+        "motor_id": 106072,
+        "price per part": 3554,
+        "sold": 2,
+        "total-sales": 7108,
+        "weeks": 3
+    },
+    {
+        "current day sale": 21424,
+        "motor_id": 123216,
+        "price per part": 5356,
+        "sold": 1,
+        "total-sales": 5356,
+        "weeks": 2
+    },
+    {
+        "current day sale": 4895,
+        "motor_id": 129337,
+        "price per part": 4895,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 6776,
+        "motor_id": 113022,
+        "price per part": 1694,
+        "sold": 13,
+        "total-sales": 22022,
+        "weeks": 3
+    },
+    {
+        "current day sale": 72270,
+        "motor_id": 111585,
+        "price per part": 7227,
+        "sold": 7,
+        "total-sales": 50589,
+        "weeks": 4
+    },
+    {
+        "current day sale": 61632,
+        "motor_id": 104565,
+        "price per part": 3852,
+        "sold": 3,
+        "total-sales": 11556,
+        "weeks": 2
+    },
+    {
+        "current day sale": 99502,
+        "motor_id": 112053,
+        "price per part": 7654,
+        "sold": 12,
+        "total-sales": 91848,
+        "weeks": 3
+    },
+    {
+        "current day sale": 43593,
+        "motor_id": 116972,
+        "price per part": 3963,
+        "sold": 8,
+        "total-sales": 31704,
+        "weeks": 3
+    },
+    {
+        "current day sale": 8264,
+        "motor_id": 102607,
+        "price per part": 2066,
+        "sold": 6,
+        "total-sales": 12396,
+        "weeks": 1
+    },
+    {
+        "current day sale": 5140,
+        "motor_id": 122848,
+        "price per part": 5140,
+        "sold": 2,
+        "total-sales": 10280,
+        "weeks": 2
+    },
+    {
+        "current day sale": 31199,
+        "motor_id": 123754,
+        "price per part": 4457,
+        "sold": 7,
+        "total-sales": 31199,
+        "weeks": 3
+    },
+    {
+        "current day sale": 17793,
+        "motor_id": 117825,
+        "price per part": 5931,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 1
+    },
+    {
+        "current day sale": 47493,
+        "motor_id": 115205,
+        "price per part": 5277,
+        "sold": 4,
+        "total-sales": 21108,
+        "weeks": 2
+    },
+    {
+        "current day sale": 76256,
+        "motor_id": 122701,
+        "price per part": 9532,
+        "sold": 11,
+        "total-sales": 104852,
+        "weeks": 4
+    },
+    {
+        "current day sale": 47772,
+        "motor_id": 105556,
+        "price per part": 7962,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 2
+    },
+    {
+        "current day sale": 60480,
+        "motor_id": 110548,
+        "price per part": 8640,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 4824,
+        "motor_id": 119855,
+        "price per part": 1608,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 2
+    },
+    {
+        "current day sale": 17292,
+        "motor_id": 130877,
+        "price per part": 1441,
+        "sold": 9,
+        "total-sales": 12969,
+        "weeks": 4
+    },
+    {
+        "current day sale": 18750,
+        "motor_id": 128296,
+        "price per part": 1875,
+        "sold": 1,
+        "total-sales": 1875,
+        "weeks": 4
+    },
+    {
+        "current day sale": 6931,
+        "motor_id": 120072,
+        "price per part": 6931,
+        "sold": 17,
+        "total-sales": 117827,
+        "weeks": 3
+    },
+    {
+        "current day sale": 33418,
+        "motor_id": 128112,
+        "price per part": 3038,
+        "sold": 9,
+        "total-sales": 27342,
+        "weeks": 1
+    },
+    {
+        "current day sale": 32301,
+        "motor_id": 126488,
+        "price per part": 3589,
+        "sold": 2,
+        "total-sales": 7178,
+        "weeks": 1
+    },
+    {
+        "current day sale": 3298,
+        "motor_id": 125990,
+        "price per part": 1649,
+        "sold": 13,
+        "total-sales": 21437,
+        "weeks": 1
+    },
+    {
+        "current day sale": 156144,
+        "motor_id": 126740,
+        "price per part": 9759,
+        "sold": 7,
+        "total-sales": 68313,
+        "weeks": 3
+    },
+    {
+        "current day sale": 2500,
+        "motor_id": 111192,
+        "price per part": 2500,
+        "sold": 1,
+        "total-sales": 2500,
+        "weeks": 1
+    },
+    {
+        "current day sale": 55976,
+        "motor_id": 103829,
+        "price per part": 6997,
+        "sold": 9,
+        "total-sales": 62973,
+        "weeks": 1
+    },
+    {
+        "current day sale": 7467,
+        "motor_id": 117549,
+        "price per part": 7467,
+        "sold": 4,
+        "total-sales": 29868,
+        "weeks": 3
+    },
+    {
+        "current day sale": 9513,
+        "motor_id": 129541,
+        "price per part": 3171,
+        "sold": 12,
+        "total-sales": 38052,
+        "weeks": 4
+    },
+    {
+        "current day sale": 9213,
+        "motor_id": 120601,
+        "price per part": 9213,
+        "sold": 3,
+        "total-sales": 27639,
+        "weeks": 1
+    },
+    {
+        "current day sale": 93096,
+        "motor_id": 123992,
+        "price per part": 7758,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 4
+    },
+    {
+        "current day sale": 10370,
+        "motor_id": 102670,
+        "price per part": 2074,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 2
+    },
+    {
+        "current day sale": 6845,
+        "motor_id": 118786,
+        "price per part": 6845,
+        "sold": 4,
+        "total-sales": 27380,
+        "weeks": 1
+    },
+    {
+        "current day sale": 20118,
+        "motor_id": 132604,
+        "price per part": 6706,
+        "sold": 3,
+        "total-sales": 20118,
+        "weeks": 4
+    },
+    {
+        "current day sale": 1238,
+        "motor_id": 102363,
+        "price per part": 1238,
+        "sold": 3,
+        "total-sales": 3714,
+        "weeks": 4
+    },
+    {
+        "current day sale": 68728,
+        "motor_id": 112164,
+        "price per part": 8591,
+        "sold": 2,
+        "total-sales": 17182,
+        "weeks": 3
+    },
+    {
+        "current day sale": 57421,
+        "motor_id": 106704,
+        "price per part": 8203,
+        "sold": 2,
+        "total-sales": 16406,
+        "weeks": 1
+    },
+    {
+        "current day sale": 8192,
+        "motor_id": 104975,
+        "price per part": 4096,
+        "sold": 1,
+        "total-sales": 4096,
+        "weeks": 1
+    },
+    {
+        "current day sale": 19726,
+        "motor_id": 111247,
+        "price per part": 9863,
+        "sold": 11,
+        "total-sales": 108493,
+        "weeks": 4
+    },
+    {
+        "current day sale": 47725,
+        "motor_id": 122913,
+        "price per part": 9545,
+        "sold": 7,
+        "total-sales": 66815,
+        "weeks": 3
+    },
+    {
+        "current day sale": 71808,
+        "motor_id": 118678,
+        "price per part": 5984,
+        "sold": 13,
+        "total-sales": 77792,
+        "weeks": 1
+    },
+    {
+        "current day sale": 6243,
+        "motor_id": 128289,
+        "price per part": 6243,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 4640,
+        "motor_id": 125508,
+        "price per part": 2320,
+        "sold": 1,
+        "total-sales": 2320,
+        "weeks": 2
+    },
+    {
+        "current day sale": 20536,
+        "motor_id": 121132,
+        "price per part": 2567,
+        "sold": 4,
+        "total-sales": 10268,
+        "weeks": 2
+    },
+    {
+        "current day sale": 9054,
+        "motor_id": 129763,
+        "price per part": 4527,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 6168,
+        "motor_id": 111600,
+        "price per part": 1028,
+        "sold": 2,
+        "total-sales": 2056,
+        "weeks": 4
+    },
+    {
+        "current day sale": 9272,
+        "motor_id": 121543,
+        "price per part": 4636,
+        "sold": 1,
+        "total-sales": 4636,
+        "weeks": 2
+    },
+    {
+        "current day sale": 2588,
+        "motor_id": 122409,
+        "price per part": 2588,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 2
+    },
+    {
+        "current day sale": 2758,
+        "motor_id": 111342,
+        "price per part": 2758,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 26847,
+        "motor_id": 129954,
+        "price per part": 8949,
+        "sold": 4,
+        "total-sales": 35796,
+        "weeks": 4
+    },
+    {
+        "current day sale": 3192,
+        "motor_id": 112843,
+        "price per part": 1064,
+        "sold": 2,
+        "total-sales": 2128,
+        "weeks": 4
+    },
+    {
+        "current day sale": 50288,
+        "motor_id": 104536,
+        "price per part": 7184,
+        "sold": 2,
+        "total-sales": 14368,
+        "weeks": 1
+    },
+    {
+        "current day sale": 30988,
+        "motor_id": 107038,
+        "price per part": 7747,
+        "sold": 3,
+        "total-sales": 23241,
+        "weeks": 4
+    },
+    {
+        "current day sale": 35664,
+        "motor_id": 119923,
+        "price per part": 5944,
+        "sold": 2,
+        "total-sales": 11888,
+        "weeks": 4
+    },
+    {
+        "current day sale": 12069,
+        "motor_id": 114955,
+        "price per part": 4023,
+        "sold": 3,
+        "total-sales": 12069,
+        "weeks": 1
+    },
+    {
+        "current day sale": 22148,
+        "motor_id": 120355,
+        "price per part": 1582,
+        "sold": 3,
+        "total-sales": 4746,
+        "weeks": 4
+    },
+    {
+        "current day sale": 109032,
+        "motor_id": 109515,
+        "price per part": 9912,
+        "sold": 9,
+        "total-sales": 89208,
+        "weeks": 1
+    },
+    {
+        "current day sale": 6848,
+        "motor_id": 116142,
+        "price per part": 3424,
+        "sold": 2,
+        "total-sales": 6848,
+        "weeks": 4
+    },
+    {
+        "current day sale": 15410,
+        "motor_id": 114606,
+        "price per part": 7705,
+        "sold": 2,
+        "total-sales": 15410,
+        "weeks": 1
+    },
+    {
+        "current day sale": 59948,
+        "motor_id": 120626,
+        "price per part": 8564,
+        "sold": 12,
+        "total-sales": 102768,
+        "weeks": 2
+    },
+    {
+        "current day sale": 41964,
+        "motor_id": 116036,
+        "price per part": 6994,
+        "sold": 1,
+        "total-sales": 6994,
+        "weeks": 1
+    },
+    {
+        "current day sale": 55680,
+        "motor_id": 108256,
+        "price per part": 3480,
+        "sold": 17,
+        "total-sales": 59160,
+        "weeks": 4
+    },
+    {
+        "current day sale": 59040,
+        "motor_id": 101355,
+        "price per part": 9840,
+        "sold": 5,
+        "total-sales": 49200,
+        "weeks": 3
+    },
+    {
+        "current day sale": 8064,
+        "motor_id": 114625,
+        "price per part": 2688,
+        "sold": 2,
+        "total-sales": 5376,
+        "weeks": 1
+    },
+    {
+        "current day sale": 11760,
+        "motor_id": 101650,
+        "price per part": 2352,
+        "sold": 3,
+        "total-sales": 7056,
+        "weeks": 3
+    },
+    {
+        "current day sale": 10462,
+        "motor_id": 121416,
+        "price per part": 5231,
+        "sold": 1,
+        "total-sales": 5231,
+        "weeks": 3
+    },
+    {
+        "current day sale": 12510,
+        "motor_id": 105454,
+        "price per part": 6255,
+        "sold": 3,
+        "total-sales": 18765,
+        "weeks": 3
+    },
+    {
+        "current day sale": 3318,
+        "motor_id": 100148,
+        "price per part": 1106,
+        "sold": 11,
+        "total-sales": 12166,
+        "weeks": 4
+    },
+    {
+        "current day sale": 123998,
+        "motor_id": 124028,
+        "price per part": 8857,
+        "sold": 17,
+        "total-sales": 150569,
+        "weeks": 3
+    },
+    {
+        "current day sale": 11706,
+        "motor_id": 124050,
+        "price per part": 3902,
+        "sold": 4,
+        "total-sales": 15608,
+        "weeks": 3
+    },
+    {
+        "current day sale": 13683,
+        "motor_id": 103676,
+        "price per part": 4561,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 4
+    },
+    {
+        "current day sale": 23355,
+        "motor_id": 128489,
+        "price per part": 4671,
+        "sold": 1,
+        "total-sales": 4671,
+        "weeks": 4
+    },
+    {
+        "current day sale": 18936,
+        "motor_id": 102220,
+        "price per part": 2367,
+        "sold": 4,
+        "total-sales": 9468,
+        "weeks": 2
+    },
+    {
+        "current day sale": 97566,
+        "motor_id": 103878,
+        "price per part": 6969,
+        "sold": 4,
+        "total-sales": 27876,
+        "weeks": 2
+    },
+    {
+        "current day sale": 17564,
+        "motor_id": 130003,
+        "price per part": 4391,
+        "sold": 3,
+        "total-sales": 13173,
+        "weeks": 1
+    },
+    {
+        "current day sale": 42489,
+        "motor_id": 132685,
+        "price per part": 4721,
+        "sold": 9,
+        "total-sales": 42489,
+        "weeks": 3
+    },
+    {
+        "current day sale": 14468,
+        "motor_id": 105938,
+        "price per part": 7234,
+        "sold": 1,
+        "total-sales": 7234,
+        "weeks": 4
+    },
+    {
+        "current day sale": 25150,
+        "motor_id": 112508,
+        "price per part": 2515,
+        "sold": 4,
+        "total-sales": 10060,
+        "weeks": 1
+    },
+    {
+        "current day sale": 80388,
+        "motor_id": 125269,
+        "price per part": 6699,
+        "sold": 4,
+        "total-sales": 26796,
+        "weeks": 1
+    },
+    {
+        "current day sale": 45318,
+        "motor_id": 113971,
+        "price per part": 7553,
+        "sold": 9,
+        "total-sales": 67977,
+        "weeks": 2
+    },
+    {
+        "current day sale": 32850,
+        "motor_id": 107815,
+        "price per part": 3285,
+        "sold": 3,
+        "total-sales": 9855,
+        "weeks": 3
+    },
+    {
+        "current day sale": 52374,
+        "motor_id": 128082,
+        "price per part": 7482,
+        "sold": 3,
+        "total-sales": 22446,
+        "weeks": 1
+    },
+    {
+        "current day sale": 90492,
+        "motor_id": 124774,
+        "price per part": 7541,
+        "sold": 9,
+        "total-sales": 67869,
+        "weeks": 4
+    },
+    {
+        "current day sale": 42497,
+        "motor_id": 118115,
+        "price per part": 6071,
+        "sold": 7,
+        "total-sales": 42497,
+        "weeks": 2
+    },
+    {
+        "current day sale": 2686,
+        "motor_id": 100788,
+        "price per part": 2686,
+        "sold": 8,
+        "total-sales": 21488,
+        "weeks": 1
+    },
+    {
+        "current day sale": 8169,
+        "motor_id": 126113,
+        "price per part": 2723,
+        "sold": 5,
+        "total-sales": 13615,
+        "weeks": 3
+    },
+    {
+        "current day sale": 131200,
+        "motor_id": 121363,
+        "price per part": 8200,
+        "sold": 7,
+        "total-sales": 57400,
+        "weeks": 4
+    },
+    {
+        "current day sale": 19992,
+        "motor_id": 105071,
+        "price per part": 3332,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 2
+    },
+    {
+        "current day sale": 3823,
+        "motor_id": 122867,
+        "price per part": 3823,
+        "sold": 2,
+        "total-sales": 7646,
+        "weeks": 2
+    },
+    {
+        "current day sale": 30163,
+        "motor_id": 109676,
+        "price per part": 4309,
+        "sold": 0,
+        "total-sales": 0,
+        "weeks": 3
+    },
+    {
+        "current day sale": 21240,
+        "motor_id": 104693,
+        "price per part": 4248,
+        "sold": 13,
+        "total-sales": 55224,
+        "weeks": 4
+    }
+]

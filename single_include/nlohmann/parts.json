@@ -1,0 +1,2002 @@
+[
+    {
+        "motor_id": 100041,
+        "number of parts": 1,
+        "part-name": "Engine block",
+        "price": 2167,
+        "rack location": [
+            8,
+            15
+        ]
+    },
+    {
+        "motor_id": 115724,
+        "number of parts": 3,
+        "part-name": "Engine Valves",
+        "price": 7462,
+        "rack location": [
+            9,
+            19
+        ]
+    },
+    {
+        "motor_id": 105705,
+        "number of parts": 8,
+        "part-name": "Oil Pan",
+        "price": 1960,
+        "rack location": [
+            6,
+            2
+        ]
+    },
+    {
+        "motor_id": 100491,
+        "number of parts": 8,
+        "part-name": "Combustion chamber",
+        "price": 6436,
+        "rack location": [
+            6,
+            3
+        ]
+    },
+    {
+        "motor_id": 132391,
+        "number of parts": 14,
+        "part-name": "Cylinder Head",
+        "price": 1292,
+        "rack location": [
+            5,
+            3
+        ]
+    },
+    {
+        "motor_id": 112382,
+        "number of parts": 19,
+        "part-name": "Manifold",
+        "price": 2893,
+        "rack location": [
+            2,
+            17
+        ]
+    },
+    {
+        "motor_id": 105447,
+        "number of parts": 19,
+        "part-name": "Crank Shaft",
+        "price": 2869,
+        "rack location": [
+            7,
+            12
+        ]
+    },
+    {
+        "motor_id": 119912,
+        "number of parts": 16,
+        "part-name": "Camshaft",
+        "price": 1893,
+        "rack location": [
+            8,
+            20
+        ]
+    },
+    {
+        "motor_id": 128703,
+        "number of parts": 14,
+        "part-name": "Timing belt",
+        "price": 9672,
+        "rack location": [
+            2,
+            3
+        ]
+    },
+    {
+        "motor_id": 104664,
+        "number of parts": 14,
+        "part-name": "Spark Plugs",
+        "price": 7868,
+        "rack location": [
+            2,
+            12
+        ]
+    },
+    {
+        "motor_id": 125547,
+        "number of parts": 18,
+        "part-name": "Connecting Rod",
+        "price": 3035,
+        "rack location": [
+            5,
+            3
+        ]
+    },
+    {
+        "motor_id": 112859,
+        "number of parts": 10,
+        "part-name": "Cylinder Liner",
+        "price": 1778,
+        "rack location": [
+            4,
+            2
+        ]
+    },
+    {
+        "motor_id": 112316,
+        "number of parts": 3,
+        "part-name": "Piston Ring",
+        "price": 1288,
+        "rack location": [
+            6,
+            11
+        ]
+    },
+    {
+        "motor_id": 130106,
+        "number of parts": 5,
+        "part-name": "Distributor",
+        "price": 5646,
+        "rack location": [
+            1,
+            3
+        ]
+    },
+    {
+        "motor_id": 127446,
+        "number of parts": 10,
+        "part-name": "Oil filter",
+        "price": 7368,
+        "rack location": [
+            6,
+            11
+        ]
+    },
+    {
+        "motor_id": 115350,
+        "number of parts": 14,
+        "part-name": "Camshaft pulley",
+        "price": 4548,
+        "rack location": [
+            7,
+            2
+        ]
+    },
+    {
+        "motor_id": 119629,
+        "number of parts": 15,
+        "part-name": "Head gasket",
+        "price": 1754,
+        "rack location": [
+            4,
+            5
+        ]
+    },
+    {
+        "motor_id": 111840,
+        "number of parts": 12,
+        "part-name": "Flywheels",
+        "price": 9306,
+        "rack location": [
+            7,
+            17
+        ]
+    },
+    {
+        "motor_id": 116944,
+        "number of parts": 4,
+        "part-name": "Water pump",
+        "price": 6537,
+        "rack location": [
+            10,
+            7
+        ]
+    },
+    {
+        "motor_id": 121538,
+        "number of parts": 10,
+        "part-name": "Crank Case",
+        "price": 8540,
+        "rack location": [
+            9,
+            3
+        ]
+    },
+    {
+        "motor_id": 104833,
+        "number of parts": 19,
+        "part-name": "Engine block",
+        "price": 5702,
+        "rack location": [
+            6,
+            20
+        ]
+    },
+    {
+        "motor_id": 109930,
+        "number of parts": 14,
+        "part-name": "Engine Valves",
+        "price": 5384,
+        "rack location": [
+            8,
+            7
+        ]
+    },
+    {
+        "motor_id": 105021,
+        "number of parts": 13,
+        "part-name": "Oil Pan",
+        "price": 7270,
+        "rack location": [
+            6,
+            5
+        ]
+    },
+    {
+        "motor_id": 105829,
+        "number of parts": 18,
+        "part-name": "Combustion chamber",
+        "price": 8511,
+        "rack location": [
+            8,
+            14
+        ]
+    },
+    {
+        "motor_id": 123986,
+        "number of parts": 17,
+        "part-name": "Cylinder Head",
+        "price": 5353,
+        "rack location": [
+            1,
+            2
+        ]
+    },
+    {
+        "motor_id": 124767,
+        "number of parts": 12,
+        "part-name": "Manifold",
+        "price": 4051,
+        "rack location": [
+            6,
+            15
+        ]
+    },
+    {
+        "motor_id": 127350,
+        "number of parts": 5,
+        "part-name": "Crank Shaft",
+        "price": 5965,
+        "rack location": [
+            1,
+            2
+        ]
+    },
+    {
+        "motor_id": 103430,
+        "number of parts": 8,
+        "part-name": "Camshaft",
+        "price": 3336,
+        "rack location": [
+            8,
+            12
+        ]
+    },
+    {
+        "motor_id": 115457,
+        "number of parts": 4,
+        "part-name": "Timing belt",
+        "price": 6944,
+        "rack location": [
+            8,
+            14
+        ]
+    },
+    {
+        "motor_id": 108909,
+        "number of parts": 2,
+        "part-name": "Spark Plugs",
+        "price": 1586,
+        "rack location": [
+            10,
+            19
+        ]
+    },
+    {
+        "motor_id": 106422,
+        "number of parts": 11,
+        "part-name": "Connecting Rod",
+        "price": 8412,
+        "rack location": [
+            7,
+            7
+        ]
+    },
+    {
+        "motor_id": 129168,
+        "number of parts": 3,
+        "part-name": "Cylinder Liner",
+        "price": 2655,
+        "rack location": [
+            1,
+            12
+        ]
+    },
+    {
+        "motor_id": 117410,
+        "number of parts": 18,
+        "part-name": "Piston Ring",
+        "price": 4546,
+        "rack location": [
+            10,
+            5
+        ]
+    },
+    {
+        "motor_id": 106483,
+        "number of parts": 3,
+        "part-name": "Distributor",
+        "price": 7348,
+        "rack location": [
+            6,
+            2
+        ]
+    },
+    {
+        "motor_id": 110291,
+        "number of parts": 1,
+        "part-name": "Oil filter",
+        "price": 5596,
+        "rack location": [
+            7,
+            15
+        ]
+    },
+    {
+        "motor_id": 124021,
+        "number of parts": 9,
+        "part-name": "Camshaft pulley",
+        "price": 7482,
+        "rack location": [
+            9,
+            20
+        ]
+    },
+    {
+        "motor_id": 108281,
+        "number of parts": 20,
+        "part-name": "Head gasket",
+        "price": 9416,
+        "rack location": [
+            5,
+            14
+        ]
+    },
+    {
+        "motor_id": 127938,
+        "number of parts": 8,
+        "part-name": "Flywheels",
+        "price": 1467,
+        "rack location": [
+            1,
+            9
+        ]
+    },
+    {
+        "motor_id": 103728,
+        "number of parts": 4,
+        "part-name": "Water pump",
+        "price": 9806,
+        "rack location": [
+            4,
+            9
+        ]
+    },
+    {
+        "motor_id": 102421,
+        "number of parts": 14,
+        "part-name": "Crank Case",
+        "price": 1513,
+        "rack location": [
+            1,
+            18
+        ]
+    },
+    {
+        "motor_id": 114309,
+        "number of parts": 12,
+        "part-name": "Engine block",
+        "price": 3598,
+        "rack location": [
+            7,
+            16
+        ]
+    },
+    {
+        "motor_id": 105249,
+        "number of parts": 19,
+        "part-name": "Engine Valves",
+        "price": 4300,
+        "rack location": [
+            10,
+            17
+        ]
+    },
+    {
+        "motor_id": 106224,
+        "number of parts": 10,
+        "part-name": "Oil Pan",
+        "price": 6988,
+        "rack location": [
+            9,
+            5
+        ]
+    },
+    {
+        "motor_id": 132702,
+        "number of parts": 14,
+        "part-name": "Combustion chamber",
+        "price": 6342,
+        "rack location": [
+            6,
+            6
+        ]
+    },
+    {
+        "motor_id": 130523,
+        "number of parts": 4,
+        "part-name": "Cylinder Head",
+        "price": 8448,
+        "rack location": [
+            8,
+            15
+        ]
+    },
+    {
+        "motor_id": 125200,
+        "number of parts": 1,
+        "part-name": "Manifold",
+        "price": 2794,
+        "rack location": [
+            9,
+            19
+        ]
+    },
+    {
+        "motor_id": 114798,
+        "number of parts": 19,
+        "part-name": "Crank Shaft",
+        "price": 2006,
+        "rack location": [
+            2,
+            10
+        ]
+    },
+    {
+        "motor_id": 127157,
+        "number of parts": 19,
+        "part-name": "Camshaft",
+        "price": 4291,
+        "rack location": [
+            3,
+            3
+        ]
+    },
+    {
+        "motor_id": 106038,
+        "number of parts": 18,
+        "part-name": "Timing belt",
+        "price": 8958,
+        "rack location": [
+            10,
+            11
+        ]
+    },
+    {
+        "motor_id": 106191,
+        "number of parts": 17,
+        "part-name": "Spark Plugs",
+        "price": 3510,
+        "rack location": [
+            6,
+            9
+        ]
+    },
+    {
+        "motor_id": 116202,
+        "number of parts": 16,
+        "part-name": "Connecting Rod",
+        "price": 3326,
+        "rack location": [
+            5,
+            13
+        ]
+    },
+    {
+        "motor_id": 122646,
+        "number of parts": 16,
+        "part-name": "Cylinder Liner",
+        "price": 2430,
+        "rack location": [
+            3,
+            7
+        ]
+    },
+    {
+        "motor_id": 129869,
+        "number of parts": 17,
+        "part-name": "Piston Ring",
+        "price": 4879,
+        "rack location": [
+            3,
+            5
+        ]
+    },
+    {
+        "motor_id": 131998,
+        "number of parts": 2,
+        "part-name": "Distributor",
+        "price": 6699,
+        "rack location": [
+            3,
+            12
+        ]
+    },
+    {
+        "motor_id": 103557,
+        "number of parts": 10,
+        "part-name": "Oil filter",
+        "price": 6075,
+        "rack location": [
+            7,
+            13
+        ]
+    },
+    {
+        "motor_id": 110712,
+        "number of parts": 4,
+        "part-name": "Camshaft pulley",
+        "price": 9867,
+        "rack location": [
+            1,
+            11
+        ]
+    },
+    {
+        "motor_id": 117861,
+        "number of parts": 10,
+        "part-name": "Head gasket",
+        "price": 7254,
+        "rack location": [
+            9,
+            2
+        ]
+    },
+    {
+        "motor_id": 116423,
+        "number of parts": 3,
+        "part-name": "Flywheels",
+        "price": 2284,
+        "rack location": [
+            3,
+            6
+        ]
+    },
+    {
+        "motor_id": 127088,
+        "number of parts": 18,
+        "part-name": "Water pump",
+        "price": 1831,
+        "rack location": [
+            7,
+            18
+        ]
+    },
+    {
+        "motor_id": 130932,
+        "number of parts": 2,
+        "part-name": "Crank Case",
+        "price": 9188,
+        "rack location": [
+            10,
+            15
+        ]
+    },
+    {
+        "motor_id": 119976,
+        "number of parts": 13,
+        "part-name": "Engine block",
+        "price": 4423,
+        "rack location": [
+            10,
+            9
+        ]
+    },
+    {
+        "motor_id": 110555,
+        "number of parts": 2,
+        "part-name": "Engine Valves",
+        "price": 1511,
+        "rack location": [
+            5,
+            10
+        ]
+    },
+    {
+        "motor_id": 130145,
+        "number of parts": 14,
+        "part-name": "Oil Pan",
+        "price": 8138,
+        "rack location": [
+            1,
+            19
+        ]
+    },
+    {
+        "motor_id": 112423,
+        "number of parts": 8,
+        "part-name": "Combustion chamber",
+        "price": 4528,
+        "rack location": [
+            10,
+            17
+        ]
+    },
+    {
+        "motor_id": 122549,
+        "number of parts": 10,
+        "part-name": "Cylinder Head",
+        "price": 1193,
+        "rack location": [
+            8,
+            7
+        ]
+    },
+    {
+        "motor_id": 123195,
+        "number of parts": 7,
+        "part-name": "Manifold",
+        "price": 8104,
+        "rack location": [
+            8,
+            17
+        ]
+    },
+    {
+        "motor_id": 124488,
+        "number of parts": 15,
+        "part-name": "Crank Shaft",
+        "price": 1112,
+        "rack location": [
+            3,
+            16
+        ]
+    },
+    {
+        "motor_id": 111701,
+        "number of parts": 7,
+        "part-name": "Camshaft",
+        "price": 4262,
+        "rack location": [
+            7,
+            12
+        ]
+    },
+    {
+        "motor_id": 104313,
+        "number of parts": 14,
+        "part-name": "Timing belt",
+        "price": 1912,
+        "rack location": [
+            6,
+            6
+        ]
+    },
+    {
+        "motor_id": 110808,
+        "number of parts": 14,
+        "part-name": "Spark Plugs",
+        "price": 1753,
+        "rack location": [
+            3,
+            6
+        ]
+    },
+    {
+        "motor_id": 128321,
+        "number of parts": 3,
+        "part-name": "Connecting Rod",
+        "price": 1481,
+        "rack location": [
+            9,
+            7
+        ]
+    },
+    {
+        "motor_id": 104144,
+        "number of parts": 10,
+        "part-name": "Cylinder Liner",
+        "price": 3161,
+        "rack location": [
+            7,
+            3
+        ]
+    },
+    {
+        "motor_id": 105535,
+        "number of parts": 7,
+        "part-name": "Piston Ring",
+        "price": 4043,
+        "rack location": [
+            1,
+            14
+        ]
+    },
+    {
+        "motor_id": 121659,
+        "number of parts": 14,
+        "part-name": "Distributor",
+        "price": 3022,
+        "rack location": [
+            3,
+            20
+        ]
+    },
+    {
+        "motor_id": 126154,
+        "number of parts": 10,
+        "part-name": "Oil filter",
+        "price": 5185,
+        "rack location": [
+            1,
+            6
+        ]
+    },
+    {
+        "motor_id": 108313,
+        "number of parts": 9,
+        "part-name": "Camshaft pulley",
+        "price": 6017,
+        "rack location": [
+            5,
+            3
+        ]
+    },
+    {
+        "motor_id": 118787,
+        "number of parts": 12,
+        "part-name": "Head gasket",
+        "price": 2201,
+        "rack location": [
+            6,
+            19
+        ]
+    },
+    {
+        "motor_id": 103625,
+        "number of parts": 15,
+        "part-name": "Flywheels",
+        "price": 8822,
+        "rack location": [
+            8,
+            15
+        ]
+    },
+    {
+        "motor_id": 129334,
+        "number of parts": 20,
+        "part-name": "Water pump",
+        "price": 3832,
+        "rack location": [
+            5,
+            13
+        ]
+    },
+    {
+        "motor_id": 128070,
+        "number of parts": 19,
+        "part-name": "Crank Case",
+        "price": 9177,
+        "rack location": [
+            8,
+            18
+        ]
+    },
+    {
+        "motor_id": 117773,
+        "number of parts": 9,
+        "part-name": "Engine block",
+        "price": 9191,
+        "rack location": [
+            1,
+            4
+        ]
+    },
+    {
+        "motor_id": 113985,
+        "number of parts": 14,
+        "part-name": "Engine Valves",
+        "price": 8627,
+        "rack location": [
+            3,
+            1
+        ]
+    },
+    {
+        "motor_id": 104802,
+        "number of parts": 6,
+        "part-name": "Oil Pan",
+        "price": 2543,
+        "rack location": [
+            10,
+            8
+        ]
+    },
+    {
+        "motor_id": 101924,
+        "number of parts": 2,
+        "part-name": "Combustion chamber",
+        "price": 6180,
+        "rack location": [
+            4,
+            13
+        ]
+    },
+    {
+        "motor_id": 131003,
+        "number of parts": 14,
+        "part-name": "Cylinder Head",
+        "price": 5723,
+        "rack location": [
+            3,
+            6
+        ]
+    },
+    {
+        "motor_id": 113031,
+        "number of parts": 3,
+        "part-name": "Manifold",
+        "price": 5283,
+        "rack location": [
+            3,
+            3
+        ]
+    },
+    {
+        "motor_id": 113064,
+        "number of parts": 1,
+        "part-name": "Crank Shaft",
+        "price": 5411,
+        "rack location": [
+            1,
+            8
+        ]
+    },
+    {
+        "motor_id": 130974,
+        "number of parts": 16,
+        "part-name": "Camshaft",
+        "price": 4830,
+        "rack location": [
+            1,
+            11
+        ]
+    },
+    {
+        "motor_id": 119711,
+        "number of parts": 8,
+        "part-name": "Timing belt",
+        "price": 8285,
+        "rack location": [
+            1,
+            17
+        ]
+    },
+    {
+        "motor_id": 112550,
+        "number of parts": 16,
+        "part-name": "Spark Plugs",
+        "price": 4622,
+        "rack location": [
+            1,
+            15
+        ]
+    },
+    {
+        "motor_id": 128019,
+        "number of parts": 15,
+        "part-name": "Connecting Rod",
+        "price": 5656,
+        "rack location": [
+            6,
+            17
+        ]
+    },
+    {
+        "motor_id": 126302,
+        "number of parts": 19,
+        "part-name": "Cylinder Liner",
+        "price": 5591,
+        "rack location": [
+            2,
+            7
+        ]
+    },
+    {
+        "motor_id": 123851,
+        "number of parts": 5,
+        "part-name": "Piston Ring",
+        "price": 4117,
+        "rack location": [
+            5,
+            19
+        ]
+    },
+    {
+        "motor_id": 123152,
+        "number of parts": 1,
+        "part-name": "Distributor",
+        "price": 2926,
+        "rack location": [
+            1,
+            8
+        ]
+    },
+    {
+        "motor_id": 109010,
+        "number of parts": 16,
+        "part-name": "Oil filter",
+        "price": 1575,
+        "rack location": [
+            8,
+            11
+        ]
+    },
+    {
+        "motor_id": 130227,
+        "number of parts": 5,
+        "part-name": "Camshaft pulley",
+        "price": 6109,
+        "rack location": [
+            4,
+            19
+        ]
+    },
+    {
+        "motor_id": 107882,
+        "number of parts": 8,
+        "part-name": "Head gasket",
+        "price": 3574,
+        "rack location": [
+            7,
+            6
+        ]
+    },
+    {
+        "motor_id": 114474,
+        "number of parts": 10,
+        "part-name": "Flywheels",
+        "price": 5925,
+        "rack location": [
+            6,
+            8
+        ]
+    },
+    {
+        "motor_id": 125423,
+        "number of parts": 3,
+        "part-name": "Water pump",
+        "price": 1123,
+        "rack location": [
+            1,
+            3
+        ]
+    },
+    {
+        "motor_id": 124596,
+        "number of parts": 16,
+        "part-name": "Crank Case",
+        "price": 6522,
+        "rack location": [
+            8,
+            2
+        ]
+    },
+    {
+        "motor_id": 101264,
+        "number of parts": 17,
+        "part-name": "Engine block",
+        "price": 6030,
+        "rack location": [
+            1,
+            3
+        ]
+    },
+    {
+        "motor_id": 120326,
+        "number of parts": 12,
+        "part-name": "Engine Valves",
+        "price": 8545,
+        "rack location": [
+            2,
+            12
+        ]
+    },
+    {
+        "motor_id": 121153,
+        "number of parts": 5,
+        "part-name": "Oil Pan",
+        "price": 4185,
+        "rack location": [
+            1,
+            11
+        ]
+    },
+    {
+        "motor_id": 121763,
+        "number of parts": 3,
+        "part-name": "Combustion chamber",
+        "price": 5828,
+        "rack location": [
+            1,
+            12
+        ]
+    },
+    {
+        "motor_id": 130900,
+        "number of parts": 19,
+        "part-name": "Cylinder Head",
+        "price": 9365,
+        "rack location": [
+            4,
+            19
+        ]
+    },
+    {
+        "motor_id": 113007,
+        "number of parts": 19,
+        "part-name": "Manifold",
+        "price": 7439,
+        "rack location": [
+            8,
+            1
+        ]
+    },
+    {
+        "motor_id": 102303,
+        "number of parts": 5,
+        "part-name": "Crank Shaft",
+        "price": 7477,
+        "rack location": [
+            1,
+            18
+        ]
+    },
+    {
+        "motor_id": 105108,
+        "number of parts": 2,
+        "part-name": "Camshaft",
+        "price": 5848,
+        "rack location": [
+            4,
+            8
+        ]
+    },
+    {
+        "motor_id": 114460,
+        "number of parts": 5,
+        "part-name": "Timing belt",
+        "price": 2403,
+        "rack location": [
+            9,
+            14
+        ]
+    },
+    {
+        "motor_id": 106540,
+        "number of parts": 16,
+        "part-name": "Spark Plugs",
+        "price": 6353,
+        "rack location": [
+            2,
+            5
+        ]
+    },
+    {
+        "motor_id": 106072,
+        "number of parts": 6,
+        "part-name": "Connecting Rod",
+        "price": 3554,
+        "rack location": [
+            1,
+            4
+        ]
+    },
+    {
+        "motor_id": 123216,
+        "number of parts": 7,
+        "part-name": "Cylinder Liner",
+        "price": 5356,
+        "rack location": [
+            7,
+            18
+        ]
+    },
+    {
+        "motor_id": 129337,
+        "number of parts": 2,
+        "part-name": "Piston Ring",
+        "price": 4895,
+        "rack location": [
+            2,
+            10
+        ]
+    },
+    {
+        "motor_id": 113022,
+        "number of parts": 18,
+        "part-name": "Distributor",
+        "price": 1694,
+        "rack location": [
+            8,
+            13
+        ]
+    },
+    {
+        "motor_id": 111585,
+        "number of parts": 10,
+        "part-name": "Oil filter",
+        "price": 7227,
+        "rack location": [
+            2,
+            4
+        ]
+    },
+    {
+        "motor_id": 104565,
+        "number of parts": 17,
+        "part-name": "Camshaft pulley",
+        "price": 3852,
+        "rack location": [
+            10,
+            13
+        ]
+    },
+    {
+        "motor_id": 112053,
+        "number of parts": 15,
+        "part-name": "Head gasket",
+        "price": 7654,
+        "rack location": [
+            3,
+            5
+        ]
+    },
+    {
+        "motor_id": 116972,
+        "number of parts": 13,
+        "part-name": "Flywheels",
+        "price": 3963,
+        "rack location": [
+            8,
+            10
+        ]
+    },
+    {
+        "motor_id": 102607,
+        "number of parts": 16,
+        "part-name": "Water pump",
+        "price": 2066,
+        "rack location": [
+            4,
+            12
+        ]
+    },
+    {
+        "motor_id": 122848,
+        "number of parts": 4,
+        "part-name": "Crank Case",
+        "price": 5140,
+        "rack location": [
+            6,
+            19
+        ]
+    },
+    {
+        "motor_id": 123754,
+        "number of parts": 16,
+        "part-name": "Engine block",
+        "price": 4457,
+        "rack location": [
+            2,
+            2
+        ]
+    },
+    {
+        "motor_id": 117825,
+        "number of parts": 7,
+        "part-name": "Engine Valves",
+        "price": 5931,
+        "rack location": [
+            2,
+            11
+        ]
+    },
+    {
+        "motor_id": 115205,
+        "number of parts": 19,
+        "part-name": "Oil Pan",
+        "price": 5277,
+        "rack location": [
+            4,
+            11
+        ]
+    },
+    {
+        "motor_id": 122701,
+        "number of parts": 18,
+        "part-name": "Combustion chamber",
+        "price": 9532,
+        "rack location": [
+            4,
+            15
+        ]
+    },
+    {
+        "motor_id": 105556,
+        "number of parts": 6,
+        "part-name": "Cylinder Head",
+        "price": 7962,
+        "rack location": [
+            4,
+            17
+        ]
+    },
+    {
+        "motor_id": 110548,
+        "number of parts": 14,
+        "part-name": "Manifold",
+        "price": 8640,
+        "rack location": [
+            2,
+            1
+        ]
+    },
+    {
+        "motor_id": 119855,
+        "number of parts": 3,
+        "part-name": "Crank Shaft",
+        "price": 1608,
+        "rack location": [
+            6,
+            3
+        ]
+    },
+    {
+        "motor_id": 130877,
+        "number of parts": 13,
+        "part-name": "Camshaft",
+        "price": 1441,
+        "rack location": [
+            5,
+            19
+        ]
+    },
+    {
+        "motor_id": 128296,
+        "number of parts": 14,
+        "part-name": "Timing belt",
+        "price": 1875,
+        "rack location": [
+            4,
+            1
+        ]
+    },
+    {
+        "motor_id": 120072,
+        "number of parts": 18,
+        "part-name": "Spark Plugs",
+        "price": 6931,
+        "rack location": [
+            9,
+            11
+        ]
+    },
+    {
+        "motor_id": 128112,
+        "number of parts": 12,
+        "part-name": "Connecting Rod",
+        "price": 3038,
+        "rack location": [
+            6,
+            10
+        ]
+    },
+    {
+        "motor_id": 126488,
+        "number of parts": 18,
+        "part-name": "Cylinder Liner",
+        "price": 3589,
+        "rack location": [
+            6,
+            11
+        ]
+    },
+    {
+        "motor_id": 125990,
+        "number of parts": 15,
+        "part-name": "Piston Ring",
+        "price": 1649,
+        "rack location": [
+            6,
+            14
+        ]
+    },
+    {
+        "motor_id": 126740,
+        "number of parts": 16,
+        "part-name": "Distributor",
+        "price": 9759,
+        "rack location": [
+            5,
+            19
+        ]
+    },
+    {
+        "motor_id": 111192,
+        "number of parts": 2,
+        "part-name": "Oil filter",
+        "price": 2500,
+        "rack location": [
+            6,
+            5
+        ]
+    },
+    {
+        "motor_id": 103829,
+        "number of parts": 13,
+        "part-name": "Camshaft pulley",
+        "price": 6997,
+        "rack location": [
+            6,
+            9
+        ]
+    },
+    {
+        "motor_id": 117549,
+        "number of parts": 8,
+        "part-name": "Head gasket",
+        "price": 7467,
+        "rack location": [
+            7,
+            2
+        ]
+    },
+    {
+        "motor_id": 129541,
+        "number of parts": 14,
+        "part-name": "Flywheels",
+        "price": 3171,
+        "rack location": [
+            10,
+            1
+        ]
+    },
+    {
+        "motor_id": 120601,
+        "number of parts": 4,
+        "part-name": "Water pump",
+        "price": 9213,
+        "rack location": [
+            8,
+            16
+        ]
+    },
+    {
+        "motor_id": 123992,
+        "number of parts": 13,
+        "part-name": "Crank Case",
+        "price": 7758,
+        "rack location": [
+            5,
+            2
+        ]
+    },
+    {
+        "motor_id": 102670,
+        "number of parts": 5,
+        "part-name": "Engine block",
+        "price": 2074,
+        "rack location": [
+            9,
+            8
+        ]
+    },
+    {
+        "motor_id": 118786,
+        "number of parts": 8,
+        "part-name": "Engine Valves",
+        "price": 6845,
+        "rack location": [
+            9,
+            11
+        ]
+    },
+    {
+        "motor_id": 132604,
+        "number of parts": 4,
+        "part-name": "Oil Pan",
+        "price": 6706,
+        "rack location": [
+            4,
+            2
+        ]
+    },
+    {
+        "motor_id": 102363,
+        "number of parts": 10,
+        "part-name": "Combustion chamber",
+        "price": 1238,
+        "rack location": [
+            1,
+            12
+        ]
+    },
+    {
+        "motor_id": 112164,
+        "number of parts": 14,
+        "part-name": "Cylinder Head",
+        "price": 8591,
+        "rack location": [
+            3,
+            20
+        ]
+    },
+    {
+        "motor_id": 106704,
+        "number of parts": 11,
+        "part-name": "Manifold",
+        "price": 8203,
+        "rack location": [
+            9,
+            13
+        ]
+    },
+    {
+        "motor_id": 104975,
+        "number of parts": 3,
+        "part-name": "Crank Shaft",
+        "price": 4096,
+        "rack location": [
+            10,
+            4
+        ]
+    },
+    {
+        "motor_id": 111247,
+        "number of parts": 12,
+        "part-name": "Camshaft",
+        "price": 9863,
+        "rack location": [
+            5,
+            9
+        ]
+    },
+    {
+        "motor_id": 122913,
+        "number of parts": 13,
+        "part-name": "Timing belt",
+        "price": 9545,
+        "rack location": [
+            6,
+            6
+        ]
+    },
+    {
+        "motor_id": 118678,
+        "number of parts": 20,
+        "part-name": "Spark Plugs",
+        "price": 5984,
+        "rack location": [
+            10,
+            3
+        ]
+    },
+    {
+        "motor_id": 128289,
+        "number of parts": 1,
+        "part-name": "Connecting Rod",
+        "price": 6243,
+        "rack location": [
+            5,
+            6
+        ]
+    },
+    {
+        "motor_id": 125508,
+        "number of parts": 2,
+        "part-name": "Cylinder Liner",
+        "price": 2320,
+        "rack location": [
+            9,
+            11
+        ]
+    },
+    {
+        "motor_id": 121132,
+        "number of parts": 8,
+        "part-name": "Piston Ring",
+        "price": 2567,
+        "rack location": [
+            3,
+            13
+        ]
+    },
+    {
+        "motor_id": 129763,
+        "number of parts": 4,
+        "part-name": "Distributor",
+        "price": 4527,
+        "rack location": [
+            2,
+            4
+        ]
+    },
+    {
+        "motor_id": 111600,
+        "number of parts": 6,
+        "part-name": "Oil filter",
+        "price": 1028,
+        "rack location": [
+            10,
+            16
+        ]
+    },
+    {
+        "motor_id": 121543,
+        "number of parts": 4,
+        "part-name": "Camshaft pulley",
+        "price": 4636,
+        "rack location": [
+            8,
+            9
+        ]
+    },
+    {
+        "motor_id": 122409,
+        "number of parts": 2,
+        "part-name": "Head gasket",
+        "price": 2588,
+        "rack location": [
+            4,
+            10
+        ]
+    },
+    {
+        "motor_id": 111342,
+        "number of parts": 2,
+        "part-name": "Flywheels",
+        "price": 2758,
+        "rack location": [
+            9,
+            1
+        ]
+    },
+    {
+        "motor_id": 129954,
+        "number of parts": 11,
+        "part-name": "Water pump",
+        "price": 8949,
+        "rack location": [
+            9,
+            7
+        ]
+    },
+    {
+        "motor_id": 112843,
+        "number of parts": 9,
+        "part-name": "Crank Case",
+        "price": 1064,
+        "rack location": [
+            1,
+            1
+        ]
+    },
+    {
+        "motor_id": 104536,
+        "number of parts": 7,
+        "part-name": "Engine block",
+        "price": 7184,
+        "rack location": [
+            4,
+            16
+        ]
+    },
+    {
+        "motor_id": 107038,
+        "number of parts": 5,
+        "part-name": "Engine Valves",
+        "price": 7747,
+        "rack location": [
+            4,
+            10
+        ]
+    },
+    {
+        "motor_id": 119923,
+        "number of parts": 7,
+        "part-name": "Oil Pan",
+        "price": 5944,
+        "rack location": [
+            10,
+            18
+        ]
+    },
+    {
+        "motor_id": 114955,
+        "number of parts": 12,
+        "part-name": "Combustion chamber",
+        "price": 4023,
+        "rack location": [
+            9,
+            7
+        ]
+    },
+    {
+        "motor_id": 120355,
+        "number of parts": 17,
+        "part-name": "Cylinder Head",
+        "price": 1582,
+        "rack location": [
+            2,
+            10
+        ]
+    },
+    {
+        "motor_id": 109515,
+        "number of parts": 16,
+        "part-name": "Manifold",
+        "price": 9912,
+        "rack location": [
+            5,
+            3
+        ]
+    },
+    {
+        "motor_id": 116142,
+        "number of parts": 13,
+        "part-name": "Crank Shaft",
+        "price": 3424,
+        "rack location": [
+            7,
+            9
+        ]
+    },
+    {
+        "motor_id": 114606,
+        "number of parts": 5,
+        "part-name": "Camshaft",
+        "price": 7705,
+        "rack location": [
+            4,
+            10
+        ]
+    },
+    {
+        "motor_id": 120626,
+        "number of parts": 14,
+        "part-name": "Timing belt",
+        "price": 8564,
+        "rack location": [
+            3,
+            16
+        ]
+    },
+    {
+        "motor_id": 116036,
+        "number of parts": 15,
+        "part-name": "Spark Plugs",
+        "price": 6994,
+        "rack location": [
+            7,
+            2
+        ]
+    },
+    {
+        "motor_id": 108256,
+        "number of parts": 19,
+        "part-name": "Connecting Rod",
+        "price": 3480,
+        "rack location": [
+            3,
+            17
+        ]
+    },
+    {
+        "motor_id": 101355,
+        "number of parts": 11,
+        "part-name": "Cylinder Liner",
+        "price": 9840,
+        "rack location": [
+            6,
+            12
+        ]
+    },
+    {
+        "motor_id": 114625,
+        "number of parts": 7,
+        "part-name": "Piston Ring",
+        "price": 2688,
+        "rack location": [
+            2,
+            18
+        ]
+    },
+    {
+        "motor_id": 101650,
+        "number of parts": 14,
+        "part-name": "Distributor",
+        "price": 2352,
+        "rack location": [
+            3,
+            15
+        ]
+    },
+    {
+        "motor_id": 121416,
+        "number of parts": 3,
+        "part-name": "Oil filter",
+        "price": 5231,
+        "rack location": [
+            3,
+            9
+        ]
+    },
+    {
+        "motor_id": 105454,
+        "number of parts": 4,
+        "part-name": "Camshaft pulley",
+        "price": 6255,
+        "rack location": [
+            4,
+            15
+        ]
+    },
+    {
+        "motor_id": 100148,
+        "number of parts": 14,
+        "part-name": "Head gasket",
+        "price": 1106,
+        "rack location": [
+            5,
+            18
+        ]
+    },
+    {
+        "motor_id": 124028,
+        "number of parts": 19,
+        "part-name": "Flywheels",
+        "price": 8857,
+        "rack location": [
+            1,
+            1
+        ]
+    },
+    {
+        "motor_id": 124050,
+        "number of parts": 5,
+        "part-name": "Water pump",
+        "price": 3902,
+        "rack location": [
+            6,
+            2
+        ]
+    },
+    {
+        "motor_id": 103676,
+        "number of parts": 3,
+        "part-name": "Crank Case",
+        "price": 4561,
+        "rack location": [
+            4,
+            10
+        ]
+    },
+    {
+        "motor_id": 128489,
+        "number of parts": 14,
+        "part-name": "Engine block",
+        "price": 4671,
+        "rack location": [
+            9,
+            3
+        ]
+    },
+    {
+        "motor_id": 102220,
+        "number of parts": 12,
+        "part-name": "Engine Valves",
+        "price": 2367,
+        "rack location": [
+            3,
+            4
+        ]
+    },
+    {
+        "motor_id": 103878,
+        "number of parts": 20,
+        "part-name": "Oil Pan",
+        "price": 6969,
+        "rack location": [
+            10,
+            9
+        ]
+    },
+    {
+        "motor_id": 130003,
+        "number of parts": 5,
+        "part-name": "Combustion chamber",
+        "price": 4391,
+        "rack location": [
+            6,
+            2
+        ]
+    },
+    {
+        "motor_id": 132685,
+        "number of parts": 10,
+        "part-name": "Cylinder Head",
+        "price": 4721,
+        "rack location": [
+            4,
+            19
+        ]
+    },
+    {
+        "motor_id": 105938,
+        "number of parts": 2,
+        "part-name": "Manifold",
+        "price": 7234,
+        "rack location": [
+            8,
+            11
+        ]
+    },
+    {
+        "motor_id": 112508,
+        "number of parts": 14,
+        "part-name": "Crank Shaft",
+        "price": 2515,
+        "rack location": [
+            2,
+            20
+        ]
+    },
+    {
+        "motor_id": 125269,
+        "number of parts": 19,
+        "part-name": "Camshaft",
+        "price": 6699,
+        "rack location": [
+            8,
+            10
+        ]
+    },
+    {
+        "motor_id": 113971,
+        "number of parts": 16,
+        "part-name": "Timing belt",
+        "price": 7553,
+        "rack location": [
+            5,
+            18
+        ]
+    },
+    {
+        "motor_id": 107815,
+        "number of parts": 13,
+        "part-name": "Spark Plugs",
+        "price": 3285,
+        "rack location": [
+            1,
+            20
+        ]
+    },
+    {
+        "motor_id": 128082,
+        "number of parts": 11,
+        "part-name": "Connecting Rod",
+        "price": 7482,
+        "rack location": [
+            5,
+            6
+        ]
+    },
+    {
+        "motor_id": 124774,
+        "number of parts": 12,
+        "part-name": "Cylinder Liner",
+        "price": 7541,
+        "rack location": [
+            1,
+            16
+        ]
+    },
+    {
+        "motor_id": 118115,
+        "number of parts": 19,
+        "part-name": "Piston Ring",
+        "price": 6071,
+        "rack location": [
+            10,
+            11
+        ]
+    },
+    {
+        "motor_id": 100788,
+        "number of parts": 17,
+        "part-name": "Distributor",
+        "price": 2686,
+        "rack location": [
+            8,
+            13
+        ]
+    },
+    {
+        "motor_id": 126113,
+        "number of parts": 11,
+        "part-name": "Oil filter",
+        "price": 2723,
+        "rack location": [
+            9,
+            2
+        ]
+    },
+    {
+        "motor_id": 121363,
+        "number of parts": 19,
+        "part-name": "Camshaft pulley",
+        "price": 8200,
+        "rack location": [
+            9,
+            5
+        ]
+    },
+    {
+        "motor_id": 105071,
+        "number of parts": 12,
+        "part-name": "Head gasket",
+        "price": 3332,
+        "rack location": [
+            6,
+            15
+        ]
+    },
+    {
+        "motor_id": 122867,
+        "number of parts": 9,
+        "part-name": "Flywheels",
+        "price": 3823,
+        "rack location": [
+            4,
+            16
+        ]
+    },
+    {
+        "motor_id": 109676,
+        "number of parts": 19,
+        "part-name": "Water pump",
+        "price": 4309,
+        "rack location": [
+            10,
+            11
+        ]
+    },
+    {
+        "motor_id": 104693,
+        "number of parts": 17,
+        "part-name": "Crank Case",
+        "price": 4248,
+        "rack location": [
+            7,
+            1
+        ]
+    }
+]
